@@ -2,6 +2,12 @@
 
 ![AWS Console Output/Terminal](./assets/Screenshot7.59.19%20PM.png)
 
+## How it went
+
+It did not go very well. I watched all three zoom recordings multiple times and have kept getting the same error over and over again. I am getting the same errors wether it is this assignment on the in class demo. I followed the inclass demo while rewatching the recordings before attempting this lab. I was not able to get it to work. I wound up hitting the same errors and issues again as I worked on this lab. I am not sure what else I can try at this point. I am hoping there is a class review and/or I can get more help in Remo.
+
+## Challenge
+
 AWS Lambda allows writing code that is triggered in the cloud, without thinking about maintaining servers. We’ll use it today to automatically run some processing on image files after they’re uploaded to an S3 Bucket
 
 ## Feature Tasks
