@@ -1,0 +1,26 @@
+{
+  "name": "aws-s3-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarderio/aws-s3-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarderio/aws-s3-lambda/issues"
+  },
+  "homepage": "https://github.com/cesarderio/aws-s3-lambda#readme",
+  "dependencies": {
+    "eslint": "^8.30.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
